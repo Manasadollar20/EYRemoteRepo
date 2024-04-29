@@ -10,5 +10,10 @@ namespace ConsoleAppGITDay2
     {
         public string Name { get; set; }
 
+        public void show()
+        {
+            Console.WriteLine(Name);
+        }
+
     }
 }
