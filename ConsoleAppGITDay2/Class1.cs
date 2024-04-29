@@ -8,6 +8,9 @@ namespace ConsoleAppGITDay2
 {
     internal class Class1
     {
-        
+        static void Main(string[] args)
+        {
+            Console.WriteLine("stashing");
+        }
     }
 }
