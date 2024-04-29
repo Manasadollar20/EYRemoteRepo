@@ -6,9 +6,10 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("manu");
-            Console.Writeline("hola");
-            Console.Writeline("====GITHUB====");
+            Console.WriteLine("hola");
+            Console.WriteLine("====GITHUB====");
             Console.WriteLine("local changes");
+            Console.WriteLine("priority");
         }
     }
 }
