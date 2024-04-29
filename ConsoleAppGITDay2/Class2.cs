@@ -8,7 +8,7 @@ namespace ConsoleAppGITDay2
 {
     internal class Class2
     {
-       
+        public string Name { get; set; }
 
     }
 }
